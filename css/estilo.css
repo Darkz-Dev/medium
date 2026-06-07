@@ -98,6 +98,17 @@ ul#menu li.destaque a:hover {
     left: 0;
 }
 
+#rodape{
+    content: " ";
+    clear: both;
+    display: block;
+    background-color: #c5e3fe;
+    border-top: 1px solid black;
+    height: 100px;
+
+}
+
+
 /***************************************
  tipografia 
  */
@@ -164,5 +175,9 @@ ul#menu li.destaque a:hover {
     background: url(../img/icone6.png) no-repeat left / contain;
     padding-left: 1.5rem;
     
+ }
+
+ h5{
+    text-align: center;
  }
 
